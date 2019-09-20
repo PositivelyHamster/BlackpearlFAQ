@@ -97,8 +97,9 @@ You can post only original upload/rare stuff.
 You can hide the content with this tag `[pearl=0]your content[/pearl]`
 
 ### How to post and solve requests?
-
-
+Its Easy to Solve Request, First you Message the Requestor stating your intent to reslove his request. 
+then both you and the requestor should agree upon the pearls payout for the Requested 'Item'.
+After acquring the Items, post it on the correct section and give the link of thread, to the requestor and complete your pearls transaction.
 ### You just made a post but it's not showing up anymore, what's happening?
 It's most probably in the Approval Queue or already deleted due to breaking rules or improper format/missing stuff.
 The current system doesn't informs the poster about their post getting rejected, and if you post something worthless we won't even inform you in PM.
@@ -110,6 +111,7 @@ This happens because you are under "Registered" or "Boomers" usergroup and can n
 If you would like to access these sections you have contribute on forum to get Pirate Tag, Pirate group can be purchased from [shop](https://blackpearl.biz/shop/) with 75 pearls.
 
 ### I purchased BlackPearl Gsuite from shop. Can some one help me how to use it?
+Of Course !, Just Message any Available Moderator or the Community. Also if you Just bought the Gsuite Account, give it a minimum o 36 hours, before you message Jack regarding the purchase, also remember to configure it at the shop!.
 
 ### How to check how many pearls I have? Who is the richest user?
 [Clicking here](https://blackpearl.biz/pearls/) you can check how many pearls do you have, who is the richest user and all the pearls you won/spend.
